@@ -20,7 +20,8 @@ Projeto desenvolvido na Rocketseat em um discouver, para fins de aprendizado.
 - CSS
 - JAVASCRIPT
 - HTML
-
+## GitHub Pages
+- [Pagina na WEB](https://viniciucristian21.github.io/maratona-discouver/)
 ## 💻 Iniciando o projeto
 
 ### Instalando e rodando o projeto
