@@ -29,7 +29,7 @@ _Clone o projeto e acesse a pasta_
 
 ```bash
 $ git https://github.com/ViniciuCristian21/maratona-discouver.git
-$ cd appLibras/
+$ cd maratona-discouver/
 ```
 <br>
 <hr>
