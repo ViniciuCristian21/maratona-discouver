@@ -29,7 +29,7 @@ Projeto desenvolvido na Rocketseat em um discouver, para fins de aprendizado.
 _Clone o projeto e acesse a pasta_
 
 ```bash
-$ git https://github.com/ViniciuCristian21/maratona-discouver.git
+$ git clone https://github.com/ViniciuCristian21/maratona-discouver.git
 $ cd maratona-discouver/
 ```
 <br>
